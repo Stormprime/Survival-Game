@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/ForVladVideo/SecondLevel/SecondScene.unity
+  isLoaded: 1
+  isActive: 1
